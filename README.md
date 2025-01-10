@@ -1,0 +1,2 @@
+# Super-Store-Sales-Analysis---Power-BI-Project
+The SuperStore Sales Dashboard highlights key insights: the West region leads in sales, while the South underperforms. Corporate and Home Office dominate segments. Cash on Delivery is the top payment mode. Office Supplies and Phones excel in sales. Profits peak in Nov-Dec, with Standard Class as the preferred shipping mode &amp; varying state profits.
